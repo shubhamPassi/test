@@ -3,7 +3,6 @@
 
 void main(){
         int a,b,c;
-	printf("hello from singapore");
         printf("Enter first no.");
         scanf(a);
         printf("Enter second no.");
