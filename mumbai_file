@@ -1,5 +1,5 @@
-#include <iostream.h>
-#include <stdio.h>
+#include <iostream>
+#include <stdio>
 
 void main(){
 	int a,b,c;

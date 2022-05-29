@@ -1,0 +1,16 @@
+#include <iostream>
+#include <stdio>
+
+void main(){
+        int a,b,c;
+        printf("Enter first no.");
+        scanf(a);
+        printf("Enter second no.");
+        scanf(b);
+        c = a + b;
+        printf("sum of a and b is %d",c);
+        printf("a*b is %d",c);
+}
+
+
+
